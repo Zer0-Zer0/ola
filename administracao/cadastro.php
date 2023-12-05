@@ -24,7 +24,7 @@
             if ($senha == $senha2 && $senha != null && $senha2 != null){
                     if(strlen($siape) == 7){
                         $senha = password_hash($senha, PASSWORD_DEFAULT); 
-                        $numero = 7;
+                        $numero = 3;
                         $identificador = bin2hex(random_bytes($numero));
                         $email = $siape."@ifba.edu.br";
                         // Monta a consulta SQL para inserir os dados na tabela 'coordenação'
