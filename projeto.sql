@@ -61,8 +61,8 @@ CREATE TABLE `coordenacao` (
 --
 
 INSERT INTO `coordenacao` (`identificador`, `cod_siape`, `id`, `nome`, `email`, `senha`, `coordenacao`) VALUES
-('461429', 1234567, 13, 'GuiBorges', '1234567@ifba.edu.br', '$2y$10$ntUQrAbQ5Pn.KgUP89a2.OcZG5moIxRwvDQEdhMIJeGt8BmgLgcMG', 'Coordenação de Registro (CORES) '),
-('fc4041', 2221110, 14, 'Gui', '2221110@ifba.edu.br', '$2y$10$tdrUaehbGLWQTCRAVCwM6uduXUuBOJbUQ78apEcb9UMY4cx1UoV2q', 'Coordenação de Registro (CORES) ');
+('461429', 1234567, 13, 'GuiBorges', '1234567@ifba.edu.br', '$2y$10$ntUQrAbQ5Pn.KgUP89a2.OcZG5moIxRwvDQEdhMIJeGt8BmgLgcMG', 'Coordenacao de Registro (CORES)'),
+('fc4041', 2221110, 14, 'Gui', '2221110@ifba.edu.br', '$2y$10$tdrUaehbGLWQTCRAVCwM6uduXUuBOJbUQ78apEcb9UMY4cx1UoV2q', 'Coordenacao de Registro (CORES)');
 
 -- --------------------------------------------------------
 

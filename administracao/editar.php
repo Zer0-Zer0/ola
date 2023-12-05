@@ -55,10 +55,10 @@
     <p>
     <label for="">Digite a sua Coodernação: </label>
     <select name="coordenacao" value=<?php echo $coordenacao;?>>
-    <option value="Coordenação de Registro (CORES) ">Coordenação de Registro (CORES) </option>
-    <option value="Coordenação de Curso de Meio Ambiente">Coordenação de Curso de Meio Ambiente</option>
-    <option value="Coordenação de Curso de Informática">Coordenação de Curso de Informática</option>
-    <option value="Coordenação de Curso de Edificações">Coordenação de Curso de Edificações</option>
+    <option value="Coordenacao de Registro (CORES) ">Coordenação de Registro (CORES) </option>
+    <option value="Coordenacao de Curso de Meio Ambiente">Coordenação de Curso de Meio Ambiente</option>
+    <option value="Coordenacao de Curso de Informatica">Coordenação de Curso de Informática</option>
+    <option value="Coordenacao de Curso de Edificacoes">Coordenação de Curso de Edificações</option>
     </select>
     </p>
 
